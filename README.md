@@ -1,23 +1,5 @@
-<h1 align="center">
- <img src="https://example.com/your-image-here.png">
-  <br />
- Meu Guia de Auto-Hospedagem
-</h1>
-
-  	
-
-
 
  #### A guide for getting started with Self Hosting devices including software and hardware that will make you a better and more efficient Self Hosting.
- 
- 
- 
- 
- 
- <p align="center">
- <img src="https://example.com/your-second-image-here.png">
-  <br />
-</p>
  
 # Table of Contents
 
